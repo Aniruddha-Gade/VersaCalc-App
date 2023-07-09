@@ -1,6 +1,14 @@
 # VersaCalc-App
 
-Demo Link --> [ https://aniruddha-gade.github.io/VersaCalc-App/ ]
+<h2>This project is built with ReactJS and Tailwind CSS</h2>
+
+
+- Math Calculator
+- Stopwatch
+- Age Calculator 
+
+
+Live Link --> [ https://aniruddha-gade.github.io/VersaCalc-App/ ]
 
 # Light Mode ( Home Page )
 ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/VersaCalc-App/main/VersaCalc%20App%20Screenshots/img1.png)
@@ -14,6 +22,7 @@ Demo Link --> [ https://aniruddha-gade.github.io/VersaCalc-App/ ]
 # Age Calculator
 ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/VersaCalc-App/main/VersaCalc%20App%20Screenshots/img4.png)
 
+<br/>
 
 # Dark Mode ( Home Page )
 ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/VersaCalc-App/main/VersaCalc%20App%20Screenshots/img5.png)
