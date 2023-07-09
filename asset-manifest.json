@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VersaCalc-App/static/css/main.64b6bdf5.css",
+    "main.js": "/VersaCalc-App/static/js/main.1e7808c4.js",
+    "index.html": "/VersaCalc-App/index.html",
+    "main.64b6bdf5.css.map": "/VersaCalc-App/static/css/main.64b6bdf5.css.map",
+    "main.1e7808c4.js.map": "/VersaCalc-App/static/js/main.1e7808c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64b6bdf5.css",
+    "static/js/main.1e7808c4.js"
+  ]
+}
