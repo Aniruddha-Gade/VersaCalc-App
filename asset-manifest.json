@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/VersaCalc-App/static/css/main.64b6bdf5.css",
-    "main.js": "/VersaCalc-App/static/js/main.dc2f8093.js",
+    "main.js": "/VersaCalc-App/static/js/main.e8f42282.js",
     "index.html": "/VersaCalc-App/index.html",
     "main.64b6bdf5.css.map": "/VersaCalc-App/static/css/main.64b6bdf5.css.map",
-    "main.dc2f8093.js.map": "/VersaCalc-App/static/js/main.dc2f8093.js.map"
+    "main.e8f42282.js.map": "/VersaCalc-App/static/js/main.e8f42282.js.map"
   },
   "entrypoints": [
     "static/css/main.64b6bdf5.css",
-    "static/js/main.dc2f8093.js"
+    "static/js/main.e8f42282.js"
   ]
 }
